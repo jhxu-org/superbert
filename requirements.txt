@@ -1,0 +1,16 @@
+torchvision==0.8.0
+transformers==4.2.1
+timm==0.4.12
+yapf==0.31.0
+torch==1.7.0
+torchmetrics==0.5.0
+tqdm==4.62.0
+numpy==1.18.1
+opencv_python
+anytree==2.8.0
+pyarrow==5.0.0
+addict==2.4.0
+apex==0.9.10dev
+mmcv
+Pillow==8.3.2
+tensorboardX==2.4
